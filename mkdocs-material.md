@@ -109,4 +109,5 @@ plugins:
 ```
 
 - 创建 `.gitignore` 文件，填入 `.venv/`
+- `git init`
 - 创建一个 `python` 文件，选择 `.venv` 中的解释器，这样当打开终端时，vscode 会自动进入虚拟环境
