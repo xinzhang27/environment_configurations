@@ -4,7 +4,8 @@
 
 1. `python -m venv .venv`
 2. `python -m pip install mkdocs-material`
-3. `mkdocs new .`
+3. `source .venv/bin/activate`
+4. `mkdocs new .`
 
 ## 配置项目
 
